@@ -324,41 +324,6 @@
   {
     "part": "filename",
     "type": "regex",
-    "pattern": "backup",
-    "caption": "Contains word: backup",
-    "description": null
-  },
-  {
-    "part": "filename",
-    "type": "regex",
-    "pattern": "dump",
-    "caption": "Contains word: dump",
-    "description": null
-  },
-  {
-    "part": "filename",
-    "type": "regex",
-    "pattern": "password",
-    "caption": "Contains word: password",
-    "description": null
-  },
-  {
-    "part": "filename",
-    "type": "regex",
-    "pattern": "credential",
-    "caption": "Contains word: credential",
-    "description": null
-  },
-  {
-    "part": "filename",
-    "type": "regex",
-    "pattern": "secret",
-    "caption": "Contains word: secret",
-    "description": null
-  },
-  {
-    "part": "filename",
-    "type": "regex",
     "pattern": "private.*key",
     "caption": "Contains words: private, key",
     "description": null
